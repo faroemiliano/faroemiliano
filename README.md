@@ -19,7 +19,7 @@
 <img src="https://github.com/faroemiliano/faroemiliano/assets/93226174/93624b40-5f35-4662-9b24-4da854238dfd" alt="image" width="40"/>
 <img src="https://github.com/faroemiliano/faroemiliano/assets/93226174/21385271-e333-4459-9e66-e00fc13a91be" alt="image" width="40"/>
 
-
+<img src="https://github.com/faroemiliano/faroemiliano/blob/main/bannergit.jpeg?raw=true" alt="image" style="width: 100%; height: 500px;"/>
 
 
 
