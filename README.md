@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente trabajo con **proyectos personales**
 
-- 🌱 Actualmente estoy estudiando **Python3, PostgreSQL**
+- 🌱 Actualmente estoy estudiando **Flutter**
 
 - 📫 Puedes contactarme en: **faroemiliano@gmail.com**
 
