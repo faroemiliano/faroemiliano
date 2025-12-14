@@ -4,9 +4,9 @@
 
 
 
-- 🔭 Actualmente trabajo con **proyectos personales**
+- 🔭 Trabajo con **proyectos personales**
 
-- 🌱 Actualmente estoy estudiando **Flutter**
+- 🌱 Actualmente estoy estudiando **Ciberseguridad**
 
 - 📫 Puedes contactarme en: **faroemiliano@gmail.com**
 
