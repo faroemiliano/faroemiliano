@@ -32,7 +32,7 @@
   <a href="mailto:faroemiliano@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF00"/>
   </a>
-  <a href="https://www.linkedin.com/en/emiliano-faro/">
+  <a href="https://linkedin.com/in/emiliano-faro/">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00"/>
   </a>
 </p>
