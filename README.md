@@ -67,4 +67,4 @@
 > no solo escribo codigo
 > construyo sistemas
 
-> aprender haciendo > aprender mirando
+> aprender haciendo > aprender mirando > aprender estudiando
