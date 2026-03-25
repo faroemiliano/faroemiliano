@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&lines=Construyendo+SaaS;Aprendiendo+Ciberseguridad;Backend+%2B+Arquitectura;Mentalidad+Hacker" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&lines=Construyendo+SaaS;Aprendiendo+Ciberseguridad;Backend+%2B+Arquitectura;Mentalidad+Positiva" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 💻 TECNOLOGÍAS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,fastapi,postgres,mysql,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,fastapi,postgres,git" />
 </p>
 
 ---
@@ -58,14 +58,7 @@
   <img src="https://github.com/faroemiliano/faroemiliano/assets/93226174/21385271-e333-4459-9e66-e00fc13a91be" width="45"/>
 </p>
 
----
 
-## 📊 ESTADÍSTICAS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faroemiliano&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faroemiliano&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
 
 ---
 
