@@ -32,7 +32,7 @@
   <a href="mailto:faroemiliano@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF00"/>
   </a>
-  <a href="[https://www.linkedin.com/en/emiliano-faro/](https://www.linkedin.com/in/emiliano-faro/)">
+  <a href="https://www.linkedin.com/en/emiliano-faro/">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00"/>
   </a>
 </p>
@@ -54,8 +54,7 @@
   <img src="https://github.com/faroemiliano/faroemiliano/assets/93226174/3866041b-ca19-43ed-ba8d-3114d0b87e10" width="45"/>
   <img src="https://github.com/faroemiliano/faroemiliano/assets/93226174/e0a79821-6cbd-4f28-82d8-ed5eb7b2de65" width="45"/>
   <img src="https://github.com/faroemiliano/faroemiliano/assets/93226174/f89ea594-ff00-47d2-861e-fb0c01225e62" width="45"/>
-  <img src="https://github.com/faroemiliano/faroemiliano/assets/93226174/93624b40-5f35-4662-9b24-4da854238dfd" width="45"/>
-  <img src="https://github.com/faroemiliano/faroemiliano/assets/93226174/21385271-e333-4459-9e66-e00fc13a91be" width="45"/>
+ 
 </p>
 
 
