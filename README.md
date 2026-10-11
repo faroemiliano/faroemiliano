@@ -96,3 +96,112 @@ FastAPI / Node.js / Spring
 PostgreSQL
    ↓
 Cloud Infrastructure
+
+
+---
+
+## 🚀 Mis proyectos
+
+### 🛍️ Pupas Mayorista
+
+Plataforma **e-commerce mayorista** desarrollada con arquitectura propia.
+
+**Tecnologías:**  
+`React` `TypeScript` `FastAPI` `PostgreSQL` `Cloudflare` `Vercel` `Render`
+
+- Catálogo y variantes de productos
+- Gestión de clientes y pedidos
+- Control de stock
+- Panel administrativo
+- Migración desde WordPress / WooCommerce
+- Migración y optimización de imágenes
+- Integraciones con servicios externos
+- Infraestructura cloud
+
+---
+
+### 💈 Barbería 1991
+
+Sistema **SaaS multi-tenant** para gestión de barberías.
+
+**Tecnologías:**  
+`React` `TypeScript` `FastAPI` `PostgreSQL`
+
+- Gestión de turnos
+- Clientes y barberos
+- Panel administrativo
+- Roles y permisos
+- Registro de ganancias
+- Soporte para múltiples barberías
+
+---
+
+### 🐾 VetFlow
+
+Sistema backend **multi-tenant para gestión veterinaria**.
+
+**Tecnologías:**  
+`FastAPI` `PostgreSQL`
+
+- Mascotas
+- Turnos
+- Historias clínicas
+- Vacunas
+- Recetas
+- Archivos adjuntos
+- Roles administrativos y profesionales
+
+---
+
+## 🌐 Farixio
+
+<p align="center">
+  <a href="https://farixio.com">
+    <img src="https://img.shields.io/badge/VISITAR-FARIXIO.COM-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+**Farixio** es mi proyecto profesional de desarrollo de software y soluciones digitales.
+
+Desarrollo soluciones a medida para transformar ideas y necesidades de negocio en productos digitales.
+
+**Servicios:**
+
+- 🌐 Desarrollo web
+- 🛒 E-commerce
+- ⚙️ Sistemas personalizados
+- 🏢 Plataformas SaaS
+- 🔌 APIs e integraciones
+- 🗄️ Bases de datos
+- 🤖 Automatización
+- ☁️ Infraestructura y deploy
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=faroemiliano&show_icons=true&hide_border=true&theme=github_dark"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=faroemiliano&layout=compact&hide_border=true&theme=github_dark"
+  />
+</p>
+
+---
+
+## 🎯 Actualmente
+
+```text
+→ Full Stack Development
+→ Backend Architecture
+→ SaaS
+→ E-commerce
+→ Cybersecurity
+→ AI Automation
