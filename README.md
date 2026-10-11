@@ -96,7 +96,7 @@ FastAPI / Node.js / Spring
 PostgreSQL
    ↓
 Cloud Infrastructure
-
+```
 
 ---
 
@@ -205,3 +205,39 @@ Desarrollo soluciones a medida para transformar ideas y necesidades de negocio e
 → E-commerce
 → Cybersecurity
 → AI Automation
+```
+
+---
+
+## 🧠 Filosofía
+
+> No solo escribo código.  
+> Construyo sistemas.
+
+**Aprender haciendo > aprender mirando.**
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="https://farixio.com">
+    <img src="https://img.shields.io/badge/WEB-FARIXIO.COM-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="mailto:faroemiliano@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/emiliano-faro/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>🚀 Transformando ideas en productos digitales.</b>
+</p>
+
+<p align="center">
+  Emiliano Faro · Full Stack Developer · Farixio
+</p>
